@@ -6,4 +6,4 @@ You can reproduce this model by following the steps below:
 4. run many_stock_train.py to predict stock trends
 
 
-[VG-GCN_model.pdf](https://github.com/user-attachments/files/20007524/VG-GCN_model.pdf)
+<img width="1214" alt="VG-GCN" src="https://github.com/user-attachments/assets/7a8d37b2-72e6-42f9-a67b-04121687bbf6" />
