@@ -1,0 +1,1 @@
+Visibility Graph Graph Convolutional Network Stock trend prediction model, using visibility graph to convert stock time series data into graph structure, and use GCN for feature extraction, and finally input into the fully connected neural network for prediction, using Thshare interface to obtain China A-share financial data set
