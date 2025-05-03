@@ -15,7 +15,6 @@ def same_seeds(seed):
 
 files = os.listdir('\data')
 kong = pd.DataFrame(columns=['股票代码', 'accuracy', 'precision', 'recall', 'F1'])
-# same_seeds(2023)
 for  i in  files:
     i=i[:-4]
     # print(i)
